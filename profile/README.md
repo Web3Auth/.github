@@ -5,8 +5,6 @@ Web3Auth is a pluggable auth infrastructure for Web3 wallets and applications. I
 With support for all social logins, web & mobile native platforms, wallets and other key management methods, Web3Auth results in a standard cryptographic key provider specific to the user and application.
 ## How can I use Web3Auth?
 
----
-
 Web3Auth comes with simple SDKs that can be integrated in multiple ways to provide the best experience for your users. We support all the available
 chains out there with special providers available for EVM and Solana.
 
