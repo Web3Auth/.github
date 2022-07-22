@@ -1,16 +1,8 @@
 # Web3Auth
 
-Web3Auth is a pluggable auth infrastructure for Web3 wallets and applications. It streamlines the onboarding of both mainstream and crypto native users under a minute by providing experiences that they're most comfortable with. With support for all social logins, web & mobile native platforms, wallets and other key management methods, Web3Auth results in a standard cryptographic key provider specific to the user and application.
+Web3Auth is a pluggable auth infrastructure for Web3 wallets and applications. It streamlines the onboarding of both mainstream and crypto native users under a minute by providing experiences that they're most comfortable with.
 
-## Features
-
-Seemless Onboarding: Our social login flows are indistinguishable from Web2.0 logins, contributing to greatly improved user experience and onboarding.
-Non-custodial Public Key Infrastructure: The user is always in control of ownership and access to their cryptographic key pair. Login services only ever have access to one share, and thus it's not possible for the provider to retrieve the user's private key on their own.
-Whitelabel: Customize Web3Auth's UI such that it blends directly into your application
-Web and native mobile: Web3Auth works both on web as well as mobile out of the box, with native and hybrid applications supported.
-Using your existing auth/userbase: Plug in to your existing userbase or auth. Zero migration necessary.
-Integrable in 5 minutes - That’s it!
-
+With support for all social logins, web & mobile native platforms, wallets and other key management methods, Web3Auth results in a standard cryptographic key provider specific to the user and application.
 ## How can I use Web3Auth?
 
 ---
