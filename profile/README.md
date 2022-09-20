@@ -45,7 +45,7 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 
 - [`web3auth-unity-sdk`](https://github.com/Web3Auth/web3auth-unity-sdk)
 
-#### Web3Auth SDK for Unreal
+#### Web3Auth SDK for Unreal Engine
 
 - [`web3auth-unreal-sdk`](https://github.com/Web3Auth/web3auth-unreal-sdk)
 
