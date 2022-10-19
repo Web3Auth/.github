@@ -14,7 +14,7 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 
 #### Web3Auth JavaScript SDKs for Web
 
-- Web3Auth Plug and Play UI SDK [`@web3auth/web3auth`](https://github.com/Web3Auth/web3auth)
+- Web3Auth Plug and Play Modal SDK [`@web3auth/modal`](https://github.com/Web3Auth/web3auth)
 - Web3Auth Plug and Play Core SDK [`@web3auth/core`](https://github.com/Web3Auth/web3auth)
 
 #### Web3Auth Self Host SDK for Web
