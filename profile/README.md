@@ -55,13 +55,22 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 
 ### 🖥️ Core Kit Web SDKs
 
+#### tKey JS SDK 
 - [`@tkey/default`](https://github.com/tkey/tkey)
+
+#### Web3Auth Single Factor Auth SDK
+
 - [`@web3auth/single-factor-auth`](https://github.com/Web3Auth/web3auth-web)
+
+#### Web3Auth Node SDK
+
 - [`@web3auth/node-sdk`](https://github.com/Web3Auth/web3auth-backend)
 
 ### 📲 Core Kit Mobile SDKs
 
-- [`@tkey/default`](https://github.com/tkey/tkey) for React Native
+#### tKey JS SDK for React Native
+
+- [`@tkey/default`](https://github.com/tkey/tkey)
 
 To know and understand how you can use Web3Auth, hop over to [Quick Start Documentation](https://web3auth.io/docs/quick-start) and get started!
 
