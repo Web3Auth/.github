@@ -80,7 +80,7 @@ Checkout the official [Web3Auth Documentation](https://web3auth.io/docs) and [SD
 
 ## 🩹 Examples
 
-Checkout the examples for your preferred blockchain and platform in our [examples repository](https://github.com/Web3Auth/examples/)
+Checkout the examples for your preferred blockchain and platform in our [examples docs](https://web3auth.io/docs/examples)
 
 ## 💥 Demo
 
