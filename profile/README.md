@@ -58,7 +58,7 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 #### tKey JS SDK 
 - [`@tkey/default`](https://github.com/tkey/tkey)
 
-#### tKey JS SDK 
+#### MPC Core Kit SDK 
 - [`@web3auth/mpc-core-kit`](https://github.com/Web3Auth/mpc-core-kit)
 
 #### Web3Auth Single Factor Auth Web SDK
