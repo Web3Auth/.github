@@ -1,11 +1,11 @@
 # Web3Auth
 
-Web3Auth is where passwordless auth meets non-custodial key infrastructure for Web3 apps and wallets. By aggregating OAuth (Google, Twitter, Discord, etc) logins, different wallets and innovative Multi Party Computation (MPC) - Web3Auth provides a seamless login experience to every user on your application be it Gaming, DeFi or NFT.
+Web3Auth is where passwordless auth meets non-custodial key infrastructure for Web3 apps and wallets. By aggregating OAuth (Google, Twitter, Discord, etc) logins, different wallets, and innovative Multi Party Computation (MPC) - Web3Auth provides a seamless login experience to every user on your application, be it Gaming, DeFi, or NFT.
 
-With Web3Auth applications and wallets find:
+With Web3Auth applications and wallets, find:
 - Simplified onboarding leading to higher conversion rates by as much as 64%
-- Key recoverability and availibity via enhanced non-custodial 2FA resulting in an 80% reduction of support tickets
-- Robust infrastructure that currently already supports 15M users, enterprise grade MPC and uptime guarantees
+- Key recoverability and availability via enhanced non-custodial 2FA resulting in an 80% reduction of support tickets
+- Robust infrastructure that currently already supports 15M users, enterprise-grade MPC and uptime guarantees
 
 ## ❓ How can I use Web3Auth?
 
@@ -58,9 +58,12 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 #### tKey JS SDK 
 - [`@tkey/default`](https://github.com/tkey/tkey)
 
-#### Web3Auth Single Factor Auth SDK
+#### tKey JS SDK 
+- [`@web3auth/mpc-core-kit`](https://github.com/Web3Auth/mpc-core-kit)
 
-- [`@web3auth/single-factor-auth`](https://github.com/Web3Auth/web3auth-web)
+#### Web3Auth Single Factor Auth Web SDK
+
+- [`@web3auth/single-factor-auth`](https://github.com/Web3Auth/single-factor-auth-web)
 
 #### Web3Auth Node SDK
 
@@ -71,6 +74,22 @@ Web3Auth comes with simple SDKs that can be integrated in multiple ways to provi
 #### tKey JS SDK for React Native
 
 - [`@tkey/default`](https://github.com/tkey/tkey)
+
+#### Web3Auth Single Factor Auth Android SDK
+
+- [`SFA Android`](https://github.com/Web3Auth/single-factor-auth-android)
+
+#### Web3Auth Single Factor Auth iOS SDK
+
+- [`SFA iOS`](https://github.com/Web3Auth/single-factor-auth-swift)
+
+#### Web3Auth Single Factor Auth React Native SDK - Coming Soon
+
+- [`SFA RN - Coming Soon`](#)
+
+#### Web3Auth Single Factor Auth Flutter SDK - Coming Soon
+
+- [`SFA Flutter - Coming Soon`](#)
 
 To know and understand how you can use Web3Auth, hop over to [Quick Start Documentation](https://web3auth.io/docs/quick-start) and get started!
 
@@ -84,7 +103,7 @@ Checkout the examples for your preferred blockchain and platform in our [example
 
 ## 💥 Demo
 
-Checkout the [Web3Auth Demo](https://demo-app.web3auth.io/) to see how Web3Auth can be used in your application.
+Check out the [Web3Auth Demo](https://demo-app.web3auth.io/) to see how Web3Auth can be used in your application.
 
 ## 💬 Troubleshooting and Support
 
