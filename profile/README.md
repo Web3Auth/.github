@@ -95,7 +95,7 @@ To know and understand how you can use Web3Auth, hop over to [Quick Start Docume
 
 ## 📖 Documentation
 
-Checkout the official [Web3Auth Documentation](https://web3auth.io/docs) and [SDK Reference](https://web3auth.io/docs/sdk/web/) to get started!
+Checkout the official [Web3Auth Documentation](https://web3auth.io/docs) and [SDK Reference](https://web3auth.io/docs/sdk) to get started!
 
 ## 🩹 Examples
 
